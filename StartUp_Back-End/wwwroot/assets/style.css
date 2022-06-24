@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.collapse .nav-item a{
+    color: white !important;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.home{
+    height: 100vh;
+    width: 100%;
+
+}
+.text1{
+   text-align: center;
+    color: white;
+    padding: 200px 320px;
+   
+}
+.text1 h1{
+   font-size: 50px;
+}
+.text1 p{
+    font-size: 20px;
+}
+.text1 button{
+    font-size: 30px;
+    background-color: aqua;
+    border-radius: 7px;
+    margin-left: 20px;
+}
+.text1 button:hover{
+    background-color: brown;
+}
+.About{
+    height: 120vh;
+    width: 100%;
+}
+.text2{
+    text-align: center;
+    padding: 50px 400px;
+    color: white;
+}
+.text2 h2{
+    font-size: 40px;
+}
+.text2 p{
+    font-size: 20px;
+}
+.card i{
+    font-size: 50px;
+    color:maroon;
+    text-align: center;
+}
+.card{
+    background-color: rgba(var(--bs-primary-rgb),var(--bs-bg-opacity))!important;
+    color: white;
+}
+.services{
+    width: 100%;
+    height: 100vh;
+
+}
+.text3{
+    text-align: center;
+    padding: 50px 400px;
+    color:white;
+}
+.text3 h2{
+    font-size: 40px;
+}
+.text3 p{
+    font-size: 20px;
+}
+.img1{
+    text-align: center;
+}
+.colum{
+    height: 20vh;
+    width: 100%;
+}
+.icon .colum img{
+   
+    width: 5%;
+    height: 50px;
+    padding-left: 5px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.Pricing{
+    height: 160vh;
+    width: 100%;
+}
+.text4{
+   padding: 70px 100px;
+   
+    color:white;
+}
+.text4 h2{
+    font-size: 40px;
+}
+.text4 p{
+    font-size: 20px;
+}
+.text5{
+    padding: 70px 100px;
+    
+     color:white;
+ }
+ .text5 h2{
+     font-size: 40px;
+ }
+ .text5 p{
+     font-size: 20px;
+ }
+ .Support{
+    height: 100vh;
+    width: 100%;
+ }
+ .text6{
+    text-align: center;
+    padding: 50px 400px;
+    color:white;
+}
+.text6 h2{
+    font-size: 50px;
+}
+.text6 p{
+    font-size: 20px;
+}
+.text7{
+    text-align: center;
+    padding: 50px 400px;
+    color:white;
+}
+.text7 h2{
+    font-size: 50px;
+}
+.text7 p{
+    font-size: 20px;
+}
+.pages{
+    height: 80vh;
+    width: 100%;
+}
